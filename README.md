@@ -4,15 +4,15 @@
   <p align="center"> Blockchain leases  . </p>
 
 ## Premise
-
+Our team is developing a Smart Least Contract that we would pitch to 
 
 
 ## Process
 
 
-## Screenshots of Contract
+## Screenshots/Gifs of Contract
 
-
+Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 
 
 
@@ -30,3 +30,6 @@
 * [Benjamin McCright](https://github.com/BenMcCright)
 * [David Ready](https://github.com/CrusadingGroundhog)
 * [Manolo Serrano](https://github.com/InfluxVC)
+
+## Framework Used
+* [Smart Lease Contract Used as Skeleton for our work](https://github.com/SmartLease/Ethereum/blob/master/contracts/smartleasefactory.sol)
