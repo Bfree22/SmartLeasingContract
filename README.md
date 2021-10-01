@@ -16,21 +16,24 @@ Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 
 ## The Buttons And What They Do
 ![ContractPartOne](Images/ContractButtonsPartOne.png)
-*
-*
-*
-*
-*
-*
-*
+* Assign Resident: 
+* Have No Pet/Have Pet: 
+* Pay Deposit: 
+* Pay Nth Rent: 
+* Propose Written Agreement: 
+* Rent Time: 
+* Sign Agreement: 
 ![ContractPartTwo](Images/ContractButtonsPartTwo.png)
-*
-*
-*
-*
-*
-*
-*
+* Address to Resident: 
+* Get Balance:
+* Get LandLord Balance: 
+* Get Leasee Balancec: 
+* Get Time Left: 
+* Household Capacity: 
+* Lessor Address:
+* Resident Address: 
+* Resident Occupancy: 
+* Written Agreement: 
 
 ### Program
 
