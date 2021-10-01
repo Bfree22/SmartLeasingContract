@@ -16,13 +16,13 @@ Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 
 ## The Buttons And What They Do
 ![ContractPartOne](Images/ContractButtonsPartOne.png)
-* Assign Resident: 
-* Have No Pet/Have Pet: 
+* Assign Resident: Button used to assing the Resident to the Smart Contract Lease
+* Have No Pet/Have Pet: Depending on which button you use there's a slight change in price between having a pet and not having a pet.
 * Pay Deposit: 
-* Pay Nth Rent: 
-* Propose Written Agreement: 
-* Rent Time: 
-* Sign Agreement: 
+* Pay Nth Rent: Pays Rent/Moves Money from Leasee to the Renter. 
+* Propose Written Agreement: Proposes the Smart Contract to the Rentee 
+* Rent Time: Length of the Contract 
+* Sign Agreement: Signs the Agreement 
 
 
 ![ContractPartTwo](Images/ContractButtonsPartTwo.png)
@@ -37,9 +37,32 @@ Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 * Resident Occupancy: 
 * Written Agreement: 
 
-### Program
+## Order of Operations
+* ProposeWrittenContract (As Landlord)
+* assignResident (As Landlord)
+* havePet / haveNoPet (As Resident)
+* signAgreement (As Resident)
+* payDeposit (Must select 1 Ether as value)
+* renttime (insert months 1 - 6)
+* Pay rent accordingly based on the amount of months selected when starting the lease.
+* payFirstRent (Insert Landlord address + Select 1(2) Ether as value, according to havePet)
+* paySecondRent (Insert Landlord address + Select 1(2) Ether as value, according to havePet)
+* payThirdRent (Insert Landlord address + Select 1(2) Ether as value, according to havePet)
+* payFourthRent (Insert Landlord address + Select 1(2) Ether as value, according to havePet)
+* payFifthRent (Insert Landlord address + Select 1(2) Ether as value, according to havePet)
+* paySixthRent (Insert Landlord address + Select 1(2) Ether as value, according to havePet)
+* Selecting the “gettimeleft” functions will get the remaining time left to pay rent depending on the amount of months selected.
+* gettimeleft
+* gettimeleft1strent
+* gettimeleft2ndrent
+* gettimeleft3rdrent
+* gettimeleft4thrent
+* gettimeleft5thrent
 
-### Results
+## Results
+
+### Additions That Could be Made if Project "Picked Up"
+
  
 
 
