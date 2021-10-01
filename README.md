@@ -18,7 +18,7 @@ Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 ![ContractPartOne](Images/ContractButtonsPartOne.png)
 * Assign Resident: Button used to assing the Resident to the Smart Contract Lease
 * Have No Pet/Have Pet: Depending on which button you use there's a slight change in price between having a pet and not having a pet.
-* Pay Deposit: 
+* Pay Deposit: Used by Leasor to pay landlord the required deposit 
 * Pay Nth Rent: Pays Rent/Moves Money from Leasee to the Renter. 
 * Propose Written Agreement: Proposes the Smart Contract to the Rentee 
 * Rent Time: Length of the Contract 
@@ -26,16 +26,16 @@ Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 
 
 ![ContractPartTwo](Images/ContractButtonsPartTwo.png)
-* Address to Resident: 
-* Get Balance:
-* Get LandLord Balance: 
-* Get Leasee Balancec: 
-* Get Time Left: 
-* Household Capacity: 
-* Lessor Address:
-* Resident Address: 
-* Resident Occupancy: 
-* Written Agreement: 
+* Address to Resident:  Address to call for the Resident
+* Get Balance: See how much is on the contract.
+* Get LandLord Balance: See how much LandLord Balance there is
+* Get Leasee Balancec: See how much Balance the Leasee has in the contract
+* Get Time Left: See how much time you have left for your lease
+* Household Capacity: See Household Capacity
+* Lessor Address: The address of the lessor
+* Resident Address: The address of the residenct
+* Resident Occupancy: Resident Occupancy   
+* Written Agreement: Button for the Written Agreement 
 
 ## Order of Operations
 * ProposeWrittenContract (As Landlord)
