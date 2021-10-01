@@ -23,6 +23,8 @@ Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 * Propose Written Agreement: 
 * Rent Time: 
 * Sign Agreement: 
+
+
 ![ContractPartTwo](Images/ContractButtonsPartTwo.png)
 * Address to Resident: 
 * Get Balance:
