@@ -12,7 +12,7 @@ Our team is developing a Smart Least Contract that we would pitch to
 
 ## Screenshots/Gifs of Contract
 
-[Program](Images/SmartLeaseFinalCode.gif)
+![Program](Images/SmartLeaseFinalCode.gif)
 Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 
 
