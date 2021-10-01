@@ -7,9 +7,6 @@
 Our team is developing a Smart Least Contract that we would pitch to 
 
 
-## Process
-
-
 ## Screenshots/Gifs of Contract
 
 ![Program](Images/SmartLeaseFinalCode.gif)
@@ -17,7 +14,24 @@ Used [Screen to Gif](https://www.screentogif.com/) for the gifs.
 
 
 
-## Conclusion
+## The Buttons And What They Do
+![ContractPartOne](Images/ContractButtonsPartOne.png)
+*
+*
+*
+*
+*
+*
+*
+![ContractPartTwo](Images/ContractButtonsPartTwo.png)
+*
+*
+*
+*
+*
+*
+*
+
 ### Program
 
 ### Results
